@@ -1,0 +1,10 @@
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\bin\Debug\BuildVerification.exe.config
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\bin\Debug\BuildVerification.exe
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\bin\Debug\BuildVerification.pdb
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\obj\Debug\BuildVerification.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\obj\Debug\BuildVerification.exe
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\obj\Debug\BuildVerification.pdb
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\obj\Debug\BuildVerification.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\bin\Debug\Piksel.SMHISharp.dll
+C:\Users\Joseph\Downloads\BuildVerification\BuildVerification\bin\Debug\Newtonsoft.Json.xml
